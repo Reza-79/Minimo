@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+}
+
+header{
+overflow: hidden;
+width: 90%;
+margin: 30px 5%;
+font-family: 'Playfair Display', serif;
+
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+.logo{
+width: 20%;
+float: left;
+}
+.logo img{
+padding-left: 10px;
+}
+.menu{
+    width: 50%;
+float: right;
+}
+.menu ul{
+    float: right;
+list-style: none;
+}
+.menu ul li{
+
+float: left;margin-left: 30px;text-transform: uppercase;}
+.menu ul li a{
+    
+
+text-decoration: none;color: #626262;}
+
+.bannar{
+    width: 90%;
+    margin: auto;
+   
+    
+}
+.bannar img{
+    width: 100%;
+    margin-bottom: 30px;
+
+}
+.photodiary{
+width: 80%;
+margin: auto;
+overflow: hidden;
+}
+.photodiary h3{
+font-size: small;
+margin-bottom: 30px;
+color: b4ad9e;
+}
+.photodiary h1{
+    margin-bottom: 30px;
+}
+.photodiary p{
+    margin-bottom: 50px;
+}
+
+.lifestyle{
+width: 80%;
+margin: auto;
+overflow: hidden;
+margin-bottom: 50px;
+}
+.lifestyle_one{
+width: 47%;
+float: left;
+}
+.lifestyle_one img{
+width: 100%;
+margin-bottom: 30px;
+}
+lifestyle_one h5{
+
+}
+lifestyle_one h1{
+
+}
+lifestyle_one p{
+
+}
+.lifestyle_two{
+    width: 47%;
+    float: right;
+}
+.lifestyle_two img{
+width: 100%;
+margin-bottom: 30px;
+
+}
+.lifestyle_two h1{
+
+}
+.lifestyle_two h5{
+margin-bottom: 20px;
+}
+.lifestyle_two p{
+margin-top: 20px;
+}
+.newsletter{
+width: 100%;
+background-color: hwb(0 82% 13%);
+}
+.news_content{
+    width: 27%;
+    margin: 0 auto;
+    
+}
+.news_content h2{
+    font-weight: 300;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.news_content input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    width: 100%;
+}
+
